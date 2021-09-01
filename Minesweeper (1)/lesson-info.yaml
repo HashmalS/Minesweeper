@@ -1,0 +1,9 @@
+type: framework
+custom_name: Minesweeper
+content:
+- Lay the groundwork
+- Flexible mines
+- Look around you
+- Prepare for battle
+- Battle_
+current_task: 1

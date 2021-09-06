@@ -1,2 +1,3 @@
 minesweeper/Main.java
  minesweeper.Main
+ minesweeper.Main$Status

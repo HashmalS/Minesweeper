@@ -517,5 +517,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/projects/77/stages/429/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 04 Sep 2021 11:57:30 UTC
+record: 4
